@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JohnnyTiu
+- 👀 I’m interested in learning to program in different languages
+- 🌱 I’m currently learning c++ in my university
