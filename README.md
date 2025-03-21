@@ -7,13 +7,17 @@
 </p>            
 
 ## Redes sociales 
+<div>
+    <a href="https://www.linkedin.com/in/johnny-tiub" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=johnnyetiu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
-<a href="linkedin.com/in/johnny-tiub">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
 </a>
-<a href="johnnyetiu@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+
+</div>
 
 
 ## Estadisticas
