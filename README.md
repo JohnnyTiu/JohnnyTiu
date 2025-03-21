@@ -8,8 +8,13 @@
 
 ## Redes sociales 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/johnny-tiub)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](johnnyetiu@gmail.com)
+<a href="linkedin.com/in/johnny-tiub">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+</a>
+<a href="johnnyetiu@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
 
 ## Estadisticas
 
