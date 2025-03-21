@@ -1,4 +1,4 @@
-# <div align="center" >Hi my name is Johnny </div>
+# <div align="center" >Hola me llamo Johnny </div>
 <div align="center"><img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?" width="200"/> </div>
 
 ## Skills
